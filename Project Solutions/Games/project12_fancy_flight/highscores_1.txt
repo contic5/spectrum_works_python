@@ -1,0 +1,5 @@
+Dorothy,1000
+Antoine,965
+Raymond,921
+Judy,885
+Shirley,848

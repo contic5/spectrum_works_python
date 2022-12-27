@@ -1,0 +1,104 @@
+What is file type for Python files?
+.py
+.html
+.js
+.exe
+0
+
+A boolean has how many possible values?
+1
+2
+3
+4
+1
+
+What is the function you can use to get user input
+eval()
+int()
+input()
+parseInt()
+2
+
+What is 12%5
+0
+1
+2
+3
+2
+
+What happens if there is an error in Python code?
+The program stops running and alerts you to what the error is.
+The program keeps running, regardless of errors.
+The program provides correction advise and alerts you to the error.
+The program stops running, with no feedback given.
+0
+
+What is 4**3
+12
+16
+48
+64
+3
+
+What is the last element of a list with 10 items
+8
+9
+10
+len(list)
+1
+
+What is a function?
+Code that only runs when it is called
+Code that always runs
+A way of storing information
+Code with a return type
+0
+
+How wwould an object named person1 of Class Person refer to its property height within itself?
+person1.height
+Person.height
+getheight(person1)
+self.height
+3
+
+What is a module?
+A class within a program
+An object
+Another way of saying a program
+A related set of outside functions and classes.
+0
+
+What is recursion?
+Solving a problem with functions.
+Looping through a problem to solve it.
+Solving a problem by having a function call itself.
+Usings lists to solve a problem.
+2
+
+Why should you not use eval() professionally?
+It's lazy.
+A malicious user can input code that will be executed.
+It does not handle user inputs correctly.
+There's no reason not to use it.
+0
+
+Which of the following is not a valid way to automatically loop through a list named items?
+for i in range(len(items))
+for i in range(len(items),0,-1)
+for item in items
+while(i<len(items)):
+3
+
+Which of the following is not an important function principle?
+Functions should have clear names and comments
+Functions only do one thing
+Functions need a return type
+Functions must have understandable and simple code
+2
+
+What is the base module for many other Python math/science modules?
+Tensorflow
+Numpy
+SciPy
+Pandas
+1
