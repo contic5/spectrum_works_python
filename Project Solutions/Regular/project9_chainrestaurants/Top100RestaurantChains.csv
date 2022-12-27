@@ -1,0 +1,101 @@
+﻿RANK,CHAIN,2020 U.S. Sales (1 million),YOY SALES CHANGE,2020 U.S. UNITS,YOY UNIT CHANGE,SEGMENT,MENU CATEGORY
+1,McDonald's,4052,0.30,13682,-1.20,Quick Service,Burger
+2,Starbucks,1849,-13.50,15337,1.90,Quick Service,Coffee Café
+3,Chick-fil-A,1375,13.00,2659,6.70,Quick Service,Chicken
+4,Taco Bell,1129,0.00,6799,0.50,Quick Service,Mexican
+5,Wendy's,1023,4.80,5881,0.50,Quick Service,Burger
+6,Burger King,966,-5.40,7081,-3.60,Quick Service,Burger
+7,Dunkin',876,-5.10,9083,-5.70,Quick Service,Coffee Cafe
+8,Subway,832,-18.50,22005,-7.50,Quick Service,Sandwich
+9,Domino's,829,17.60,6355,3.70,Quick Service,Pizza
+10,Chipotle Mexican Grill,592,6.50,2724,5.60,Fast Casual,Mexican
+11,Sonic Drive-In,568,21.20,3526,0.00,Quick Service,Burger
+12,Pizza Hut,544,-2.20,6561,-10.20,Quick Service,Pizza
+13,Panera Bread,535,-10.50,2106,-2.30,Fast Casual,Sandwich
+14,KFC,474,4.30,3943,-3.00,Quick Service,Chicken
+15,Popeyes Louisiana Kitchen,459,20.30,2608,5.30,Quick Service,Chicken
+16,Arby's,422,8.50,3369,0.30,Quick Service,Sandwich
+17,Dairy Queen,398,5.80,4361,-0.50,Quick Service,Frozen Desserts
+18,Little Caesars,395,3.50,4150,-1.50,Quick Service,Pizza
+19,Panda Express,382,-3.30,2263,2.40,Fast Casual,Asian/Noodle
+20,Jack in the Box,367,4.80,2241,-0.10,Quick Service,Burger
+21,Olive Garden,341,-20.50,868,0.20,Casual Dining,Italian/Pizza
+22,Papa John's,319,15.90,3134,-0.30,Quick Service,Pizza
+23,Buffalo Wild Wings,311,-15.10,1204,-0.20,Casual Dining,Sports Bar
+24,Applebee's,310,-24.10,1600,-3.90,Casual Dining,Varied Menu
+25,Chili's Grill & Bar,308,-13.50,1233,-0.70,Casual Dining,Varied Menu
+26,Whataburger,270,5.60,844,1.70,Quick Service,Burger
+27,Texas Roadhouse,269,-13.40,572,3.40,Casual Dining,Steak
+28,IHOP,214,-34.60,1670,-2.30,Midscale,Family Style
+29,Outback Steakhouse,209,-20.80,706,-2.50,Casual Dining,Steak
+30,Zaxby's,200,5.00,909,0.60,Fast Casual,Chicken
+31,Culver's,199,10.60,782,6.80,Quick Service,Burger
+32,Jimmy John's Gourmet Sandwiches,193,-8.50,2705,-2.90,Fast Casual,Sandwich
+33,Wingstop,182,31.00,1359,10.40,Fast Casual,Chicken
+34,Hardee's,182,-9.50,1755,-2.90,Quick Service,Burger
+35,Cracker Barrel,177,-29.70,663,0.50,Midscale,Family Style
+36,Red Lobster,176,-29.50,675,-0.60,Casual Dining,Seafood
+37,Denny's,174,-35.20,1534,-2.00,Midscale,Family Style
+38,Raising Cane's Chicken Fingers,172,17.50,509,11.40,Fast Casual,Chicken
+39,Five Guys,171,3.00,1382,1.00,"	Fast Casual",Burger
+40,Jersey Mike's Subs,160,19.60,1854,11.40,Fast Casual,Sandwich
+41,LongHorn Steakhouse,159,-15.00,538,1.50,Casual Dining,Steak
+42,The Cheesecake Factory,159,-27.30,206,0.00,Casual Dining,Varied Menu
+43,Bojangles,137,3.20,758,1.60,Quick Service,Chicken
+44,Carl's Jr.,128,-8.50,1063,-2.70,Quick Service,Burger
+45,In-N-Out Burger,107,9.50,361,2.80,Quick Service,Burger
+46,Red Robin,105,-32.40,546,-1.80,Casual Dining,Varied Menu
+47,El Pollo Loco,88,-1.70,479,-0.60,Quick Service,Chicken
+48,Del Taco,85,0.20,596,0.00,Quick Service,Mexican
+49,Firehouse Subs,84,0.90,1153,-0.20,Fast Casual,Sandwich
+50,Qdoba Mexican Eats,82,-9.20,741,1.50,Fast Casual,Mexican
+51,Papa Murphy's Pizza,80,6.50,1293,-2.70,Quick Service,Pizza
+52,BJ's Restaurant & Brewhouse,78,-33.00,210,1.00,Casual Dining,Varied Menu
+53,Steak 'n Shake,77,-20.50,518,-10.20,Quick Service,Burger
+54,Marco's Pizza,76,21.00,954,4.30,Quick Service,Pizza
+55,Church's Chicken,74,-14.80,920,-9.80,Quick Service,Chicken
+56,Waffle House,74,-36.00,1960,0.10,Midscale,Family Style
+57,Krispy Kreme,73,4.50,365,1.40,Quick Service,Other Beverage/snack
+58,Tropical Smoothie Cafe,69,19.70,914,9.60,Quick Service,Other Beverage/snack
+59,TGI Fridays,67,-38.00,340,-11.70,Casual Dining,Varied Menu
+60,Golden Corral,66,-62.00,440,-8.90,Quick Service,All Other
+61,Freddy's Frozen Custard & Steakburgers,64,20.00,388,5.40,Fast Casual,Burger
+62,McAlister's Deli,63,-13.00,481,2.60,Fast Casual,Sandwich
+63,Baskin-Robbins,62,0.80,2419,-4.20,Quick Service,Frozen Desserts
+64,Hooters,61,-29.50,340,-0.30,Casual Dining,Sports Bar
+65,P.F. Chang's,60,-34.50,214,-3.20,Casual Dining,Asian
+66,Dutch Bros Coffee,58,3.00,410,11.10,Quick Service,Coffee Café
+67,White Castle,58,0.50,361,-2.70,Quick Service,Burger
+68,Moe's Southwest Grill,56,-23.30,681,-5.70,Fast Casual,Mexican
+69,Checkers Drive-In Restaurants,55,0.50,570,-2.70,Quick Service,Burger
+70,Captain D's Seafood Kitchen,54,-3.20,534,-1.10,Quick Service,"	All Other"
+71,Shake Shack,54,-14.00,205,10.80,Fast Casual,Burger
+72,Carrabba's Italian Grill,53,-19.00,220,-2.20,Casual Dining,"	Italian/Pizza"
+73,Tim Hortons,51,-22.20,630,-4.00,Quick Service,Coffee Café
+74,Cheddar's Scratch Kitchen,49,-32.00,171,-2.30,Casual Dining,Varied Menu
+75,Smoothie King,48,4.70,1007,3.60,Quick Service,Other Beverage/snack
+76,Noodles & Company,47,-13.00,454,-0.70,Fast Casual,Asian/Noodle
+77,The Habit Burger Grill,47,-5.30,278,5.30,Fast Casual,Burger
+78,MOD Pizza,46,-4.70,490,4.90,Fast Casual,Pizza
+79,Jack's,46,3.30,192,9.10,Quick Service,Burger
+80,Portillo's,46,-7.30,64,3.20,Fast Casual,Sandwich
+81,Hungry Howie's Pizza,44,14.50,537,0.00,Quick Service,Pizza
+82,Bob Evans,44,-42.50,451,-5.10,Midscale,Family Style
+83,Round Table Pizza,44,2.80,414,-3.30,Quick Service,Pizza
+84,Charleys Philly Steaks,43,-5.00,560,2.00,Quick Service,Sandwich
+85,Ruth's Chris Steak House,43,-39.00,128,-5.20,Fine Dining,Steak
+86,Yard House,43,-30.00,81,2.50,Casual Dining,Varied Menu
+87,Einstein Bros. Bagels,43,-21.50,707,-3.00,Fast Casual,Sandwich
+88,First Watch,42,-24.00,410,11.40,Midscale,Family Style
+89,California Pizza Kitchen,42,-35.00,173,-13.10,Casual Dining,Italian/Pizza
+90,Jamba,42,-15.70,791,1.50,Quick Service,Other Beverage/snack
+91,Jason's Deli,41,-37.40,252,-11.00,Fast Casual,Sandwich
+92,Bonefish Grill,40,-31.10,187,-5.10,Casual Dining,Seafood
+93,Taco John's,39,4.70,389,0.50,"	Quick Service",Mexican
+94,Boston Market,38,-24.10,342,-13.00,Fast Casual,Chicken
+95,Pollo Tropical,37,-13.50,167,-4.00,Fast Casual,Chicken
+96,Auntie Anne's,35,-37.90,1197,-1.20,Quick Service,Other Beverage/snack
+97,Cold Stone Creamery,35,-6.70,865,-3.70,Quick Service,Frozen Desserts
+98,Jet's Pizza,34,3.50,383,0.00,Quick Service,Pizza
+99,Maggiano's Little Italy,34,-19.10,53,0.00,Casual Dining,Italian/Pizza
+100,The Capital Grille,34,-27.00,60,3.40,Fast Casual,Steak

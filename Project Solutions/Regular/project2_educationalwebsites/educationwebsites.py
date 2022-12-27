@@ -1,0 +1,6 @@
+print("W3Schools- HTML, CSS, JavaScript and Python Info")
+print("Instructure- A popular course management system for colleges")
+print("PBS Kids- Educational and Enjoyable videos for children")
+print("Desmos- Graphing Calculator Website")
+print("Khan Academy- Educational videos on various subjects")
+print("Stack Overflow- For when you aren't sure why something isn't working.")
